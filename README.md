@@ -16,6 +16,13 @@
 </div>
 
 ---
+## Sponsors
+
+| LawMotion AI|
+| ----------- |
+| [![LawMotion AI](/lawmotion—ai.svg)] |
+
+---
 
 ## ⚡ Agent Skills
 
