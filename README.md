@@ -103,12 +103,6 @@
 
 ---
 
-## 💬 社区
-
-- 💬 [GitHub Discussions](https://github.com/zhouziyue233/Vibe-Lawyering/discussions) — 提问、分享、交流
-- 🐦 [Twitter / X](https://twitter.com/VibeLaywering) — 最新动态
-- 📮 有合作意向？请发邮件至 `contact@vibe-lawyering.dev`
-
 ---
 
 ## ⭐ 贡献者
