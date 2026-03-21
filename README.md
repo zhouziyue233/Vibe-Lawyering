@@ -17,7 +17,7 @@
 
 | Sponsor|
 | ----------- |
-| <img src="lawmotion-ai.svg" width="200"/> |
+| <img src="lawmotion-ai.svg" width="400"/> |
 | <div align="center">律动智能</div> |
 
 </div>
