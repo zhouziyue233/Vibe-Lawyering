@@ -16,11 +16,11 @@
 </div>
 
 ---
-## Sponsors
+## Sponsor
 
 | LawMotion AI|
 | ----------- |
-| [![LawMotion AI](lawmotion—ai.svg)] |
+| [LawMotion-AI](lawmotion—ai.svg) |
 
 ---
 
