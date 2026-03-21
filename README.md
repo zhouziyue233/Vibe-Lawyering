@@ -13,14 +13,14 @@
 
 [Agent Skills](#-agent-skills) · [MCP 连接库](#-mcp-连接库) · [AI 学习资源](#-ai-学习资源) · [贡献指南](CONTRIBUTING.md)
 
-</div>
-
 ---
-## Sponsor
 
-| LawMotion AI|
+| Sponsor|
 | ----------- |
-| [LawMotion-AI](lawmotion—ai.svg) |
+| <img src="lawmotion-ai.svg" width="200"/> |
+| <div align="center">律动智能</div> |
+
+</div>
 
 ---
 
