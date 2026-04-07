@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/zhouziyue233/Vibe-Lawyering?style=social)](https://github.com/zhouziyue233/Vibe-Lawyering)
 [![Contributors](https://img.shields.io/github/contributors/zhouziyue233/Vibe-Lawyering)](https://github.com/zhouziyue233/Vibe-Lawyering/graphs/contributors)
 
-聚合法律人所需的优质 Agent Skills / Plugins、数据库 MCP/CLI 工具与 AI 教育资源的开源社区项目
+聚合法律人所需的优质 Agent Skills / Plugins、数据库 MCP / CLI 工具与 AI 教育资源的开源社区项目
 
 [Agent Skills](#-agent-skills) · [MCP 连接库](#-mcp-连接库) · [AI 学习资源](#-ai-学习资源) · [贡献指南](CONTRIBUTING.md)
 
@@ -24,23 +24,24 @@
 
 ---
 
-## ⚡ Agent Skills
+## ⚡ Agent Skills / Plugins
 
-法律专属 AI agent 技能，覆盖核心法律工作场景：
+法律专属 AI agent 技能和插件，覆盖核心法律工作场景：
 
 | 技能名称 | 场景 | 适用平台 | 贡献者 |
 |----------|------|------|-----|
 | [红圈所律师合同审查技能](agent-skills/红圈所律师合同审查技能) | 标注风险条款、生成修改意见 | 通用 | LawMotion AI |
 | [红圈所律师法律研究技能](agent-skills/红圈所律师法律研究技能) | 开展法律检索、法律意见书写作 | 通用 | LawMotion AI |
 | [律师尽职调查](agent-skills/legal-due-diligence) | 对目标公司开展系统的尽职调查 | 通用 | LawMotion AI |
+| [企查查法律助手插件](agent-skills/legal-assistant-skill) | 合同审核、实时风险扫描、法律求职、可视化 | 通用 | duhu@qcc.com |
 
 👉 [查看全部 Agent Skills →](agent-skills/)
 
 ---
 
-## 🔗 MCP 连接库
+## 🔗 MCP / CLI 工具
 
-支持接入主流法律工作相关数据库的 Model Context Protocol 工具：
+支持接入法律工作相关的数据库 MCP / CLI 工具：
 
 | 数据库 | MCP 状态 | 说明 |
 |--------|----------|------|
