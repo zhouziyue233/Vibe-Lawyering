@@ -33,7 +33,7 @@
 | [红圈所律师合同审查技能](agent-skills/红圈所律师合同审查技能) | 标注风险条款、生成修改意见 | 通用 | LawMotion AI |
 | [红圈所律师法律研究技能](agent-skills/红圈所律师法律研究技能) | 开展法律检索、法律意见书写作 | 通用 | LawMotion AI |
 | [律师尽职调查](agent-skills/legal-due-diligence) | 对目标公司开展系统的尽职调查 | 通用 | LawMotion AI |
-| [企查查法律助手插件](agent-skills/legal-assistant-skill) | 合同审核、实时风险扫描、法律求职、可视化 | 通用 | duhu@qcc.com |
+| [企查查法律助手插件](agent-skills/legal-assistant-skills) | 合同审核、实时风险扫描、法律求职、可视化 | 通用 | duhu@qcc.com |
 
 👉 [查看全部 Agent Skills →](agent-skills/)
 
